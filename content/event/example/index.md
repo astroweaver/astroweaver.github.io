@@ -30,7 +30,7 @@ date: 2021-07-19T11:15:12.073Z
 date_end: 2021-07-19T15:00:00.000Z
 all_day: true
 event: UK National Astronomy Meeting
-event_url: https://example.org
+event_url: https://nam2021.org/
 featured: false
 authors: []
 url_video: ""
@@ -42,7 +42,7 @@ address:
   postcode: "94305"
   country: United States
 links: []
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects:
   - cosmos2020-galaxy-catalog
