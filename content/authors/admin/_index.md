@@ -8,10 +8,7 @@ bio: My research interests lie almost exclusively within the realm of
   their properties change over cosmic time. This includes detailed case studies
   of individual galaxies, as well as statistical analyses of large survey
   catalogs.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
