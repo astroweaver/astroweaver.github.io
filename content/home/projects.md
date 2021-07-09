@@ -29,14 +29,17 @@ content:
     tag: '*'
   - name: Surveys
     tag: Surveys
+  - name: Galaxy Evolution
+    tag: Galaxy Evolution
+  - name: Black Holes
+    tag: Black Holes
   - name: Machine Learning
     tag: Machine Learning
   - name: Software
     tag: Software
-  - name: Black Holes
-    tag: Black Holes
-  - name: Galaxy Evolution
-    tag: Galaxy Evolution
+
+
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
