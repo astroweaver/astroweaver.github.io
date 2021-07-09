@@ -28,7 +28,7 @@ social:
     link: https://github.com/astroweaver
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/astroweaver/
+    link: https://www.linkedin.com/in/astroweaver/
 organizations:
   - name: Cosmic Dawn Center, University of Copenhagen
     url: https://cosmicdawn.dk/
