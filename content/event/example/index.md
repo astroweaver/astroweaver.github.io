@@ -1,73 +1,54 @@
 ---
-title: Example Talk
-
-event: Wowchemy Conference
+abstract: >
+  The current state-of-the-art observational constraints on the evolution of the
+  most massive and most UV-luminous galaxies at z > 8, and their growth in
+  relation to large-scale structure and reionization, are derived from
+  measurements of the UV Luminosity Function (UV LF). Here we present powerful
+  new constraints on UV emission from sources contributing to the Epoch of
+  Reionization (EoR) at its very onset, at only 500 Myr after the Big Bang. We
+  identify these sources with the new COSMOS2020 galaxy catalog, which utilizes
+  new ultra-deep optical and near-infrared imaging necessary to securely
+  identify candidate galaxies from the EoR, each with four consistent
+  measurements of photometric redshift and UV luminosity. Encouraged by this
+  unprecedented agreement, we confirm a highly significant departure from the
+  expected Schechter Function form of the UV LF seen in the local universe,
+  suggesting that galaxy evolution has yet to set in at these early times. An
+  already approved JWST Cycle 1 program (PI: Weaver) will target five of the
+  most robust and most UV-luminous (MUV ~ -22.5) z~9 galaxies in COSMOS with
+  detailed spatially resolved spectroscopy. This ambitious program will
+  comprehensively map out not only the UV emission from these galaxies, but also
+  their dust attenuation, morphology, and stellar assembly histories. These new
+  insights will provide the context necessary to understand the formation of the
+  most massive, and UV-luminous galaxies in the EoR.
+slides: example
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+title: "Beasts in the Bubbles: Measurement of the Massive End of z > 8 UV
+  Luminosity Function"
+location: University of Bath, Online
+date: 2021-07-19T11:15:12.073Z
+date_end: 2021-07-19T15:00:00.000Z
+all_day: true
+event: UK National Astronomy Meeting
 event_url: https://example.org
-
-location: Wowchemy HQ
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
+links: []
+publishDate: 2017-01-01T00:00:00Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- example
+  - cosmos2020-galaxy-catalog
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  focal_point: Right
+  filename: featured.png
+url_code: ""
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
