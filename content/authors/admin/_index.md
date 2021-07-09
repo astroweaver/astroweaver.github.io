@@ -1,7 +1,7 @@
 ---
 title: John R. Weaver
 role: PhD Fellow in Astrophysics
-avatar_filename: photo-on-09-07-2021-at-12.10.jpg
+avatar_filename: avatar.jpg
 bio: My research interests lie almost exclusively within the realm of
   extragalactic astrophysics and cosmology. I use state-of-the-art optical and
   infrared observatories and surveys to study the lives of galaxies, and how
