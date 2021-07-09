@@ -9,7 +9,7 @@ tags:
 external_link: https://cosmos.astro.caltech.edu/
 links: []
 image:
-  filename: http://ultravista.org/images/highlights/intermediate.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
