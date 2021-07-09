@@ -50,4 +50,4 @@ I have held internship or visiting positions at the [California Institute of Te
 \
 Beyond academia, I am a frequent contributor to [popular science publications](https://astroweaver.github.io/outreach.html) including the paper digest [Astrobites](https://astrobites.org/author/jweaver/), and have been a long-time volunteer at [public observatories](https://astroweaver.github.io/outreach.html).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/weaver_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/weaver_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
