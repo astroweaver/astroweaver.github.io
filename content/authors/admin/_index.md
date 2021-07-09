@@ -44,10 +44,10 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a PhD student based at the [Cosmic Dawn Center](https://dawn.nbi.ku.dk/) advised by Sune Toft, with Peter Capak (fmr. Caltech/IPAC), Henry McCracken (IAP), and Dave Sanders (IfA/Hawaii). I received my Masters degree in 2018 from the [University of St Andrews](https://www.st-andrews.ac.uk/) advised by Vivienne Wild. My research focuses on the assembly and evolution of galaxies across the history of the Universe, through direct observation with telescopes from both space and the ground.\
+I am a PhD student based at the [Cosmic Dawn Center](https://cosmicdawn.dk/) advised by Sune Toft, with Peter Capak (fmr. Caltech/IPAC), Henry McCracken (IAP), and Dave Sanders (IfA/Hawaii). I received my Masters degree in 2018 from the [University of St Andrews](https://www.st-andrews.ac.uk/) advised by Vivienne Wild. My research focuses on the assembly and evolution of galaxies across the history of the Universe, through direct observation with telescopes from both space and the ground.\
 \
 I have held internship or visiting positions at the [California Institute of Technology](https://www.ipac.caltech.edu/), the [University of Hawaii](http://www.ifa.hawaii.edu/), the [Max-Planck Institute for Astronomy](https://www.mpia.de/en), [Leiden Observatory](https://www.universiteitleiden.nl/en/science/astronomy), and the [Maria Mitchell Observatory](http://www.mariamitchell.org/research-and-collections/astronomy/research). I also led the creation of the spectroscopy database [AVSpec](https://www.aavso.org/apps/avspec/) for the [American Association of Variable Star Observers](https://www.aavso.org/) as a Mayall Fellow.\
 \
-Beyond academia, I am a frequent contributor to [popular science publications](https://astroweaver.github.io/outreach.html) including the paper digest [Astrobites](https://astrobites.org/author/jweaver/), and have been a long-time volunteer at [public observatories](https://astroweaver.github.io/outreach.html).
+Beyond academia, I am a frequent contributor to popular science publications including the paper digest [Astrobites](https://astrobites.org/author/jweaver/), and have been a long-time volunteer at public observatories.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/CV_Weaver.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Weaver.pdf" "newtab" >}}CV{{< /staticref >}}.
