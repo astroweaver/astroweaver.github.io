@@ -8,7 +8,11 @@ bio: My research interests lie almost exclusively within the realm of
   their properties change over cosmic time. This includes detailed case studies
   of individual galaxies, as well as statistical analyses of large survey
   catalogs.
-interests: []
+interests:
+  - Galaxy Evolution
+  - The Early Universe
+  - Star-formation Cessation
+  - Statistical Methods
 social:
   - icon: envelope
     icon_pack: fas
@@ -46,4 +50,4 @@ I have held internship or visiting positions at the [California Institute of Te
 \
 Beyond academia, I am a frequent contributor to [popular science publications](https://astroweaver.github.io/outreach.html) including the paper digest [Astrobites](https://astrobites.org/author/jweaver/), and have been a long-time volunteer at [public observatories](https://astroweaver.github.io/outreach.html).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/weaver_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
