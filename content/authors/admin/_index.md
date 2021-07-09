@@ -1,77 +1,52 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: John R. Weaver
+role: PhD Fellow in Astrophysics
+avatar_filename: photo-on-09-07-2021-at-12.10.jpg
+bio: My research interests lie almost exclusively within the realm of
+  extragalactic astrophysics and cosmology. I use state-of-the-art optical and
+  infrared observatories and surveys to study the lives of galaxies, and how
+  their properties change over cosmic time. This includes detailed case studies
+  of individual galaxies, as well as statistical analyses of large survey
+  catalogs.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/astroweave
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=VIvzxZAAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/astroweaver
+  - icon: linkedin
+    icon_pack: fab
+    link: www.linkedin.com/in/astroweaver/
+organizations:
+  - name: Cosmic Dawn Center, University of Copenhagen
+    url: https://cosmicdawn.dk/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Astrophysics
+      institution: University of Copenhagen
+      year: 2021
+    - course: MPhys in Physics with Astrophysics
+      institution: University of St Andrews
+      year: 2018
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student based at the [Cosmic Dawn Center](https://dawn.nbi.ku.dk/) advised by Sune Toft, with Peter Capak (fmr. Caltech/IPAC), Henry McCracken (IAP), and Dave Sanders (IfA/Hawaii). I received my Masters degree in 2018 from the [University of St Andrews](https://www.st-andrews.ac.uk/) advised by Vivienne Wild. My research focuses on the assembly and evolution of galaxies across the history of the Universe, through direct observation with telescopes from both space and the ground.\
+\
+Since 2013 I have held internship or visiting positions at the [California Institute of Technology](https://www.ipac.caltech.edu/), the [University of Hawaii](http://www.ifa.hawaii.edu/), the [Max-Planck Institute for Astronomy](https://www.mpia.de/en), [Leiden Observatory](https://www.universiteitleiden.nl/en/science/astronomy), and the [Maria Mitchell Observatory](http://www.mariamitchell.org/research-and-collections/astronomy/research). I also led the creation of the spectroscopy database [AVSpec](https://www.aavso.org/apps/avspec/) for the [American Association of Variable Star Observers](https://www.aavso.org/) as a Mayall Fellow.\
+\
+Beyond academia, I am a frequent contributor to [popular science publications](https://astroweaver.github.io/outreach.html) including the paper digest [Astrobites](https://astrobites.org/author/jweaver/), and have been a long-time volunteer at [public observatories](https://astroweaver.github.io/outreach.html).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
