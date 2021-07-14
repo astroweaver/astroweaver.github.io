@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | John R. Weaver</title>
+    <link>https://astroweaver.github.io/tag/machine-learning/</link>
+      <atom:link href="https://astroweaver.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 John Weaver</copyright><lastBuildDate>Fri, 09 Jul 2021 10:34:48 +0000</lastBuildDate>
+    <image>
+      <url>https://astroweaver.github.io/media/icon_hud2deb781e67c92bf3648344da244734d_232030_512x512_fill_lanczos_center_2.png</url>
+      <title>Machine Learning</title>
+      <link>https://astroweaver.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Distinguishing Quiescent and Dusty Star-forming Galaxies</title>
+      <link>https://astroweaver.github.io/project/qg_tsne/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/qg_tsne/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Large photometric surveys provide a rich source of observations of quiescent galaxies, including a surprisingly large population at z &amp;gt; 1. However, identifying large, but clean, samples of quiescent galaxies has proven difficult because of their near-degeneracy with interlopers such as dusty, star-forming galaxies. We describe a new technique for selecting quiescent galaxies based upon t-distributed stochastic neighbor embedding which provides an improvement both over UVJ. It also may be able to select quiescent galaxies more efficiently at higher redshifts than the training sample.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving star-galaxy separation with neural networks</title>
+      <link>https://astroweaver.github.io/project/sneppen_stargal/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/sneppen_stargal/</guid>
+      <description>&lt;h4 id=&#34;co-supervised-albert-sneppen-dawn-summer-student-2015&#34;&gt;Co-supervised Albert Sneppen, DAWN Summer Student (2015)&lt;/h4&gt;
+&lt;p&gt;In this project a neural network has been designed to classify stars and galaxies, where an optimal use of information and structure of the neural network has been investigated. Thus, the project presents a computationally fast methodology with the freedom to choose between quantity and purity that can accurately predict more than 95 percent of stars and galaxies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

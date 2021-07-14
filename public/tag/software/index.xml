@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software | John R. Weaver</title>
+    <link>https://astroweaver.github.io/tag/software/</link>
+      <atom:link href="https://astroweaver.github.io/tag/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 John Weaver</copyright><lastBuildDate>Fri, 09 Jul 2021 10:34:48 +0000</lastBuildDate>
+    <image>
+      <url>https://astroweaver.github.io/media/icon_hud2deb781e67c92bf3648344da244734d_232030_512x512_fill_lanczos_center_2.png</url>
+      <title>Software</title>
+      <link>https://astroweaver.github.io/tag/software/</link>
+    </image>
+    
+    <item>
+      <title>PyGAPPY, Gappy Principal Component Analysis with Python</title>
+      <link>https://astroweaver.github.io/project/pygappy/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/pygappy/</guid>
+      <description>&lt;h4 id=&#34;publication-in-preparation&#34;&gt;PUBLICATION IN PREPARATION&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;While the increasing depth and area of galaxy surveys promise definitive high-redshift studies, ever more crowded sources challenge current photometric methodology. Recent work by Lang and Hogg (2016) has provided another toolkit: The Tractor. By leveraging our understanding of galaxy morphologies, the Tractor is able to force galaxy models derived from high-resolution images onto less resolved ones, with superior deblending and robust photometric redshifts ─ advantageous for high-redshift studies. We present the Farmer, a comprehensive software interfacing with The Tractor to detect sources, efficiently determine the best model type for each source, and perform forced photometry in a scalable architecture.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Farmer</title>
+      <link>https://astroweaver.github.io/project/thefarmer/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/thefarmer/</guid>
+      <description>&lt;h4 id=&#34;publication-in-preparation&#34;&gt;PUBLICATION IN PREPARATION&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;While the increasing depth and area of galaxy surveys promise definitive high-redshift studies, ever more crowded sources challenge current photometric methodology. Recent work by Lang and Hogg (2016) has provided another toolkit: The Tractor. By leveraging our understanding of galaxy morphologies, the Tractor is able to force galaxy models derived from high-resolution images onto less resolved ones, with superior deblending and robust photometric redshifts ─ advantageous for high-redshift studies. We present the Farmer, a comprehensive software interfacing with The Tractor to detect sources, efficiently determine the best model type for each source, and perform forced photometry in a scalable architecture.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

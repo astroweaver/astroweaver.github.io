@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galaxy Evoltuion | John R. Weaver</title>
+    <link>https://astroweaver.github.io/tag/galaxy-evoltuion/</link>
+      <atom:link href="https://astroweaver.github.io/tag/galaxy-evoltuion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Galaxy Evoltuion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 John Weaver</copyright><lastBuildDate>Fri, 09 Jul 2021 10:34:48 +0000</lastBuildDate>
+    <image>
+      <url>https://astroweaver.github.io/media/icon_hud2deb781e67c92bf3648344da244734d_232030_512x512_fill_lanczos_center_2.png</url>
+      <title>Galaxy Evoltuion</title>
+      <link>https://astroweaver.github.io/tag/galaxy-evoltuion/</link>
+    </image>
+    
+    <item>
+      <title>The Most Massive Galaxies in the Early Universe</title>
+      <link>https://astroweaver.github.io/project/massivequiescent/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/massivequiescent/</guid>
+      <description>&lt;h4 id=&#34;collaboration-with-kate-gould&#34;&gt;Collaboration with Kate Gould&lt;/h4&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

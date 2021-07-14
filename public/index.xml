@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John R. Weaver</title>
+    <link>https://astroweaver.github.io/</link>
+      <atom:link href="https://astroweaver.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>John R. Weaver</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 John Weaver</copyright><lastBuildDate>Mon, 19 Jul 2021 11:15:12 +0000</lastBuildDate>
+    <image>
+      <url>https://astroweaver.github.io/media/icon_hud2deb781e67c92bf3648344da244734d_232030_512x512_fill_lanczos_center_2.png</url>
+      <title>John R. Weaver</title>
+      <link>https://astroweaver.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Beasts in the Bubbles: Measurement of the Massive End of z &gt; 8 UV Luminosity Function</title>
+      <link>https://astroweaver.github.io/talk/beasts-in-the-bubbles-measurement-of-the-massive-end-of-z-8-uv-luminosity-function/</link>
+      <pubDate>Mon, 19 Jul 2021 11:15:12 +0000</pubDate>
+      <guid>https://astroweaver.github.io/talk/beasts-in-the-bubbles-measurement-of-the-massive-end-of-z-8-uv-luminosity-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AAVSO&#39;s Stellar Spectroscopy Database</title>
+      <link>https://astroweaver.github.io/outreach/aavso/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/outreach/aavso/</guid>
+      <description>&lt;p&gt;AVSpec is the first spectral database of the &lt;a href=&#34;www.aavso.org&#34;&gt;American Association of Variable Star Observers&lt;/a&gt;. Accessible to any astronomer with the capability to perform spectroscopy, AVSpec is the world-leading database for amateur spectroscopy of variable stars and novae.&lt;/p&gt;
+&lt;p&gt;​I was the Development Director of AVSpec from 2016 - 2018, developing the concept, backend, and frontend of the the database.  I was supported in this role by the 2016 &amp;amp; 2017 Margaret Mayall Fellowships.&lt;/p&gt;
+&lt;p&gt;The site is now live: &lt;a href=&#34;www.aavso.org/apps/specdb&#34;&gt;www.aavso.org/apps/specdb&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/aavso/screen_hu858488d9da9e3ebf70f4ada194c54b3b_355644_4d454d5ae1b4ff9d2107a73c60133275.png 400w,
+               /outreach/aavso/screen_hu858488d9da9e3ebf70f4ada194c54b3b_355644_3426e314162b722df83b5e974afa7a3c.png 760w,
+               /outreach/aavso/screen_hu858488d9da9e3ebf70f4ada194c54b3b_355644_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/aavso/screen_hu858488d9da9e3ebf70f4ada194c54b3b_355644_4d454d5ae1b4ff9d2107a73c60133275.png&#34;
+               width=&#34;760&#34;
+               height=&#34;758&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Astronomy on Tap! Copenhagen</title>
+      <link>https://astroweaver.github.io/outreach/aot/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/outreach/aot/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/aot/logo_hub8f85e0c2d3aedba7ec5f6ba12837bad_146934_66ccdd95794d6772fc2180aabc44e261.png 400w,
+               /outreach/aot/logo_hub8f85e0c2d3aedba7ec5f6ba12837bad_146934_b65a77a543bd0b80c68a6cf6ada8c58f.png 760w,
+               /outreach/aot/logo_hub8f85e0c2d3aedba7ec5f6ba12837bad_146934_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/aot/logo_hub8f85e0c2d3aedba7ec5f6ba12837bad_146934_66ccdd95794d6772fc2180aabc44e261.png&#34;
+               width=&#34;760&#34;
+               height=&#34;426&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/aotcopenhagen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Astronomy on Tap – Copenhagen&lt;/a&gt; is a monthly event held at Huset, organised by astronomers in Copenhagen. Each event has a theme and features two astronomy talks as well as a quiz and awesome space music! Talks are in english.&lt;/p&gt;
+&lt;p&gt;I helped co-found the Copenhagen chapter in 2019 with a band of other early career (PhD &amp;amp; PostDoc) researchers.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;poster.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-here-im-walking-the-audience-through-the-physics-of-black-holes&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Here I&amp;#39;m walking the audience through the physics of black holes.&#34; srcset=&#34;
+               /outreach/aot/john_hua18c649b3fd83331453377132a01a69c_401987_b5527da4107bacf7807eeac3cd066e74.jpg 400w,
+               /outreach/aot/john_hua18c649b3fd83331453377132a01a69c_401987_0f167058c9eb2c2e0b5ce8fccad46f4b.jpg 760w,
+               /outreach/aot/john_hua18c649b3fd83331453377132a01a69c_401987_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/aot/john_hua18c649b3fd83331453377132a01a69c_401987_b5527da4107bacf7807eeac3cd066e74.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Here I&amp;rsquo;m walking the audience through the physics of black holes.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-nikki-ardense-discusses-dark-energy-at-our-october-2019-event&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Nikki Ardense discusses Dark Energy at our October 2019 event&#34; srcset=&#34;
+               /outreach/aot/nikki_hud1bc9b6c070dbb6adc33870f726cbed2_101621_a26b8f4ffe72803ed824dbbd4a06776d.jpg 400w,
+               /outreach/aot/nikki_hud1bc9b6c070dbb6adc33870f726cbed2_101621_de1bd5bfe6fcdce821e150d19953e107.jpg 760w,
+               /outreach/aot/nikki_hud1bc9b6c070dbb6adc33870f726cbed2_101621_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/aot/nikki_hud1bc9b6c070dbb6adc33870f726cbed2_101621_a26b8f4ffe72803ed824dbbd4a06776d.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Nikki Ardense discusses Dark Energy at our October 2019 event
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COSMOS2020</title>
+      <link>https://astroweaver.github.io/project/cosmos2020-galaxy-catalog/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/cosmos2020-galaxy-catalog/</guid>
+      <description>&lt;p&gt;The COSMOS survey is one the longest-running galaxy surveys. Over two decades, we have collected observations of x-ray, optical, infrared, and radio light to obtain galaxy distances and understand their evolution over 13.7 billion years of cosmic history. I lead the 2020 edition of the master galaxy catalog, using bleeding-edge galaxy model-fitting techniques from The Farmer to measure galaxy properties.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distinguishing Quiescent and Dusty Star-forming Galaxies</title>
+      <link>https://astroweaver.github.io/project/qg_tsne/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/qg_tsne/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Large photometric surveys provide a rich source of observations of quiescent galaxies, including a surprisingly large population at z &amp;gt; 1. However, identifying large, but clean, samples of quiescent galaxies has proven difficult because of their near-degeneracy with interlopers such as dusty, star-forming galaxies. We describe a new technique for selecting quiescent galaxies based upon t-distributed stochastic neighbor embedding which provides an improvement both over UVJ. It also may be able to select quiescent galaxies more efficiently at higher redshifts than the training sample.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring the Origins of Galaxy Bimodality at z&lt;0.1</title>
+      <link>https://astroweaver.github.io/project/psb_manga/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/psb_manga/</guid>
+      <description>&lt;p&gt;The COSMOS survey is one the longest-running galaxy surveys. Over two decades, we have collected observations of x-ray, optical, infrared, and radio light to obtain galaxy distances and understand their evolution over 13.7 billion years of cosmic history. I lead the 2020 edition of the master galaxy catalog, using bleeding-edge galaxy model-fitting techniques from The Farmer to measure galaxy properties.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Galaxy Stellar Mass Assembly History Over 13 Billion Years</title>
+      <link>https://astroweaver.github.io/project/cosmos2020-smf/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/cosmos2020-smf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History and Destiny of a Major Merger Remnant</title>
+      <link>https://astroweaver.github.io/project/ngc7252/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/ngc7252/</guid>
+      <description>&lt;p&gt;The COSMOS survey is one the longest-running galaxy surveys. Over two decades, we have collected observations of x-ray, optical, infrared, and radio light to obtain galaxy distances and understand their evolution over 13.7 billion years of cosmic history. I lead the 2020 edition of the master galaxy catalog, using bleeding-edge galaxy model-fitting techniques from The Farmer to measure galaxy properties.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving star-galaxy separation with neural networks</title>
+      <link>https://astroweaver.github.io/project/sneppen_stargal/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/sneppen_stargal/</guid>
+      <description>&lt;h4 id=&#34;co-supervised-albert-sneppen-dawn-summer-student-2015&#34;&gt;Co-supervised Albert Sneppen, DAWN Summer Student (2015)&lt;/h4&gt;
+&lt;p&gt;In this project a neural network has been designed to classify stars and galaxies, where an optimal use of information and structure of the neural network has been investigated. Thus, the project presents a computationally fast methodology with the freedom to choose between quantity and purity that can accurately predict more than 95 percent of stars and galaxies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigating Star-forming Complexes in a Nearby Dwarf Irregular Galaxy</title>
+      <link>https://astroweaver.github.io/project/ngc1427a/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/ngc1427a/</guid>
+      <description>&lt;p&gt;The COSMOS survey is one the longest-running galaxy surveys. Over two decades, we have collected observations of x-ray, optical, infrared, and radio light to obtain galaxy distances and understand their evolution over 13.7 billion years of cosmic history. I lead the 2020 edition of the master galaxy catalog, using bleeding-edge galaxy model-fitting techniques from The Farmer to measure galaxy properties.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Observatory Stewardship</title>
+      <link>https://astroweaver.github.io/outreach/observatories/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/outreach/observatories/</guid>
+      <description>&lt;p&gt;Crisp evening air. Clear skies. Maybe a telescope. Nothing refreshes me more than a night under the stars.&lt;/p&gt;
+&lt;p&gt;Since 2008, I have volunteered 1000+ hours at observatories (and one planetarium) on two continents. Roles have included program director, telescope operator, and constellation guide.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/observatories/frostydrew_hue0b494ebf140f5ca4e6a20974f3c98e2_476519_66e8b3835edb13385cc3a25268bc6f9e.jpg 400w,
+               /outreach/observatories/frostydrew_hue0b494ebf140f5ca4e6a20974f3c98e2_476519_9be55a3484ed3837db8880f930f3623c.jpg 760w,
+               /outreach/observatories/frostydrew_hue0b494ebf140f5ca4e6a20974f3c98e2_476519_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/observatories/frostydrew_hue0b494ebf140f5ca4e6a20974f3c98e2_476519_66e8b3835edb13385cc3a25268bc6f9e.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;511&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;frosty-drew-observatoryhttpsfrostydreworg&#34;&gt;&lt;a href=&#34;https://frostydrew.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frosty Drew Observatory&lt;/a&gt;&lt;/h2&gt;
+&lt;h4 id=&#34;ninigrit-park-us-2014---2018&#34;&gt;Ninigrit Park, US (2014 - 2018)&lt;/h4&gt;
+&lt;p&gt;Summer Intern (2014) and Associate Observer&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/observatories/sta_hu6264f3315e1f99688504a81e9adc344d_50513_d81a345d023e900bfdd882ee3acf7f9b.jpg 400w,
+               /outreach/observatories/sta_hu6264f3315e1f99688504a81e9adc344d_50513_0b331f9b1a7e13a9e224460ca9754b69.jpg 760w,
+               /outreach/observatories/sta_hu6264f3315e1f99688504a81e9adc344d_50513_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/observatories/sta_hu6264f3315e1f99688504a81e9adc344d_50513_d81a345d023e900bfdd882ee3acf7f9b.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;430&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;university-observatoryhttpsobservatorywpst-andrewsacuk&#34;&gt;&lt;a href=&#34;https://observatory.wp.st-andrews.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University Observatory&lt;/a&gt;&lt;/h2&gt;
+&lt;h4 id=&#34;st-andrews-uk-2013---2018&#34;&gt;St Andrews, UK (2013 - 2018)&lt;/h4&gt;
+&lt;p&gt;Observing Director through AstroSoc&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/observatories/mmo_hud2a3dd6e2d1bc63c3ea6e1af5c8037be_343226_d2340f9d6c1b69137f95b0596c884f14.jpg 400w,
+               /outreach/observatories/mmo_hud2a3dd6e2d1bc63c3ea6e1af5c8037be_343226_f30f7c85bbd05d8e9153f802988c0e29.jpg 760w,
+               /outreach/observatories/mmo_hud2a3dd6e2d1bc63c3ea6e1af5c8037be_343226_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/observatories/mmo_hud2a3dd6e2d1bc63c3ea6e1af5c8037be_343226_d2340f9d6c1b69137f95b0596c884f14.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;maria-mitchell-observatoryhttpswwwmariamitchellorgresearch-and-collectionsastronomyresearch&#34;&gt;&lt;a href=&#34;https://www.mariamitchell.org/research-and-collections/astronomy/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maria Mitchell Observatory&lt;/a&gt;&lt;/h2&gt;
+&lt;h4 id=&#34;nantucker-us-2015&#34;&gt;Nantucker, US (2015)&lt;/h4&gt;
+&lt;p&gt;Student intern, attached to undergraduate research program (REU)&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/observatories/olin_hu847a486c581dbec621ec8f57ad04d637_320391_005293dbc2e7387fac09be308f86dafe.jpg 400w,
+               /outreach/observatories/olin_hu847a486c581dbec621ec8f57ad04d637_320391_b1ccfaf817897676f93fa70356bcb241.jpg 760w,
+               /outreach/observatories/olin_hu847a486c581dbec621ec8f57ad04d637_320391_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/observatories/olin_hu847a486c581dbec621ec8f57ad04d637_320391_005293dbc2e7387fac09be308f86dafe.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;317&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;olin-observatoryhttpswwwconncolledusciencesscience-facilitiesobservatories&#34;&gt;&lt;a href=&#34;https://www.conncoll.edu/sciences/science-facilities/observatories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Olin Observatory&lt;/a&gt;&lt;/h2&gt;
+&lt;h4 id=&#34;connecticut-college-us-2012---2013&#34;&gt;Connecticut College, US (2012 - 2013)&lt;/h4&gt;
+&lt;p&gt;Student helper and observer&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/observatories/treworgy_hud8c0f13cc7bfe9ddcf3930a29a3c9ba4_33576_26616b063cd32882bff45b19ababbc98.jpg 400w,
+               /outreach/observatories/treworgy_hud8c0f13cc7bfe9ddcf3930a29a3c9ba4_33576_639083a2b19c6030191c7d8199395b8d.jpg 760w,
+               /outreach/observatories/treworgy_hud8c0f13cc7bfe9ddcf3930a29a3c9ba4_33576_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/observatories/treworgy_hud8c0f13cc7bfe9ddcf3930a29a3c9ba4_33576_26616b063cd32882bff45b19ababbc98.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;443&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;treworgy-planetariumhttpswwwmysticseaportorgexploreplanetarium&#34;&gt;&lt;a href=&#34;https://www.mysticseaport.org/explore/planetarium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Treworgy Planetarium&lt;/a&gt;&lt;/h2&gt;
+&lt;h4 id=&#34;mystic-seaport-us-2008-2013&#34;&gt;Mystic Seaport, US (2008, 2013)&lt;/h4&gt;
+&lt;p&gt;Student intern&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Popular Science Articles</title>
+      <link>https://astroweaver.github.io/outreach/articles/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/outreach/articles/</guid>
+      <description>&lt;h2 id=&#34;astrobiteshttpsastrobitesorg&#34;&gt;&lt;a href=&#34;https://astrobites.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Astrobites&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Astrobites features daily summaries of academic papers submitted to the ArXiv in the field of astronomy. Most articles are written by graduate students with the aim of a brief but comprehensive coverage of the background, methods, and conclusions. On occasion, we highlight outstanding undergraduate research, and tips for graduate school.&lt;/p&gt;
+&lt;p&gt;I am a rotation writer for 2019 and 2020, contributing one article per month as well as serving as a peer editor. A listing of my articles can be found &lt;a href=&#34;https://astrobites.org/author/jweaver/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. Here are some recent ones:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;MAY 2020&lt;br&gt;
+&lt;a href=&#34;https://astrobites.org/2020/04/17/the-missing-link-new-insights-from-post-starburst-outflows/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Missing Link: New Insights from Post-starburst Outflows&lt;/a&gt;&lt;br&gt;
+What can outflowing gas tell us about the connection between rapid galaxy growth and AGN activity?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;APRIL 2020&lt;br&gt;
+&lt;a href=&#34;https://astrobites.org/2020/03/20/the-grand-twirl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Grand Twirl&lt;/a&gt;&lt;br&gt;
+How well a galaxy dances may be a matter of life or death.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;other-platforms&#34;&gt;Other Platforms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://scinote.tumblr.com/tagged/Writer%3A-John-W&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SciNote&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://frostydrew.org/publications.dc/get/group-Columns/uid-13/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frosty Drew Observatory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sci@StAnd (offline now, unfortunately)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Public Lectures</title>
+      <link>https://astroweaver.github.io/outreach/publiclectures/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/outreach/publiclectures/</guid>
+      <description>&lt;p&gt;An (incomplete) collection of lectures that I&amp;rsquo;ve given, organized by topic:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/publiclectures/covers/blackholes_huaa531fd1c7756ac37d968ca8702e9de9_5039496_892c5abf9f9abf710a6700494ea481f6.png 400w,
+               /outreach/publiclectures/covers/blackholes_huaa531fd1c7756ac37d968ca8702e9de9_5039496_b5fb84bcb4a0dd2c9ebfcd8a905a437c.png 760w,
+               /outreach/publiclectures/covers/blackholes_huaa531fd1c7756ac37d968ca8702e9de9_5039496_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/publiclectures/covers/blackholes_huaa531fd1c7756ac37d968ca8702e9de9_5039496_892c5abf9f9abf710a6700494ea481f6.png&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;october-2020--astronomy-on-tap-br&#34;&gt;October 2020 | Astronomy on Tap &lt;br&gt;&lt;/h2&gt;
+&lt;p&gt;HUSET, Copenhagen, DK&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/publiclectures/covers/collisions_hu17e4621573cd1a62fbfdd43a9ea12245_3143372_e134c42eced4e89c7ebb2183754a4f8e.png 400w,
+               /outreach/publiclectures/covers/collisions_hu17e4621573cd1a62fbfdd43a9ea12245_3143372_3a7d6e80d48a132b1ef63ec7ebeb90e3.png 760w,
+               /outreach/publiclectures/covers/collisions_hu17e4621573cd1a62fbfdd43a9ea12245_3143372_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/publiclectures/covers/collisions_hu17e4621573cd1a62fbfdd43a9ea12245_3143372_e134c42eced4e89c7ebb2183754a4f8e.png&#34;
+               width=&#34;760&#34;
+               height=&#34;429&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;april-2019--astrosoc-st-andrews-br&#34;&gt;April 2019 | AstroSoc St Andrews &lt;br&gt;&lt;/h2&gt;
+&lt;p&gt;University of St Andrews, St Andrews, UK&lt;/p&gt;
+&lt;h2 id=&#34;february-2019--astronomy-on-tap-br&#34;&gt;February 2019 | Astronomy on Tap &lt;br&gt;&lt;/h2&gt;
+&lt;p&gt;Astronomy Aleworks, Las Vegas, US&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/publiclectures/covers/history_hua95a63c092a6a5b5fadfe210136b3023_132683_f463ca35c96252ea704f885fdc1e835b.png 400w,
+               /outreach/publiclectures/covers/history_hua95a63c092a6a5b5fadfe210136b3023_132683_a5a1e9d2ea66ab3fbd8d01239fe3b6b7.png 760w,
+               /outreach/publiclectures/covers/history_hua95a63c092a6a5b5fadfe210136b3023_132683_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/publiclectures/covers/history_hua95a63c092a6a5b5fadfe210136b3023_132683_f463ca35c96252ea704f885fdc1e835b.png&#34;
+               width=&#34;760&#34;
+               height=&#34;418&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;october-2017--astrosoc-st-andrews-br&#34;&gt;October 2017 | AstroSoc St Andrews &lt;br&gt;&lt;/h2&gt;
+&lt;p&gt;University of St Andrews, St Andrews, UK&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/publiclectures/covers/alien_hu64798625c632a239763e95d02a07b228_2743258_8f894be5b51fa8502546c2ab95169c99.png 400w,
+               /outreach/publiclectures/covers/alien_hu64798625c632a239763e95d02a07b228_2743258_41f006db48594614d436568d9dae3be8.png 760w,
+               /outreach/publiclectures/covers/alien_hu64798625c632a239763e95d02a07b228_2743258_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/publiclectures/covers/alien_hu64798625c632a239763e95d02a07b228_2743258_8f894be5b51fa8502546c2ab95169c99.png&#34;
+               width=&#34;760&#34;
+               height=&#34;536&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;september-2016--astrosoc-st-andrews-br&#34;&gt;September 2016 | AstroSoc St Andrews &lt;br&gt;&lt;/h2&gt;
+&lt;p&gt;University of St Andrews, St Andrews, UK&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/publiclectures/covers/icemoons_hucc22f9d4e0eb5cb16368dd0fa7c33ba6_2090318_ddca44e40765950d622652e0c00a2d8a.png 400w,
+               /outreach/publiclectures/covers/icemoons_hucc22f9d4e0eb5cb16368dd0fa7c33ba6_2090318_e516086456b377f35ded1a5eba557d14.png 760w,
+               /outreach/publiclectures/covers/icemoons_hucc22f9d4e0eb5cb16368dd0fa7c33ba6_2090318_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/publiclectures/covers/icemoons_hucc22f9d4e0eb5cb16368dd0fa7c33ba6_2090318_ddca44e40765950d622652e0c00a2d8a.png&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;august-2016--thames-amateur-astro-society-br&#34;&gt;August 2016 | Thames Amateur Astro. Society &lt;br&gt;&lt;/h2&gt;
+&lt;p&gt;Connecticut College, New London, US&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/publiclectures/covers/moon_hueccaa25dd32d1bcca2603d3aff77d68a_2577625_77d14fc1f6e6987966d91e85b1b6aec1.png 400w,
+               /outreach/publiclectures/covers/moon_hueccaa25dd32d1bcca2603d3aff77d68a_2577625_c55c58a8e05e07e9f5eef5195a2a2b62.png 760w,
+               /outreach/publiclectures/covers/moon_hueccaa25dd32d1bcca2603d3aff77d68a_2577625_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/publiclectures/covers/moon_hueccaa25dd32d1bcca2603d3aff77d68a_2577625_77d14fc1f6e6987966d91e85b1b6aec1.png&#34;
+               width=&#34;760&#34;
+               height=&#34;550&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;january-2016--astrosoc-st-andrews-br&#34;&gt;January 2016 | AstroSoc St Andrews &lt;br&gt;&lt;/h2&gt;
+&lt;p&gt;University of St Andrews, St Andrews, UK&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyGAPPY, Gappy Principal Component Analysis with Python</title>
+      <link>https://astroweaver.github.io/project/pygappy/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/pygappy/</guid>
+      <description>&lt;h4 id=&#34;publication-in-preparation&#34;&gt;PUBLICATION IN PREPARATION&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;While the increasing depth and area of galaxy surveys promise definitive high-redshift studies, ever more crowded sources challenge current photometric methodology. Recent work by Lang and Hogg (2016) has provided another toolkit: The Tractor. By leveraging our understanding of galaxy morphologies, the Tractor is able to force galaxy models derived from high-resolution images onto less resolved ones, with superior deblending and robust photometric redshifts ─ advantageous for high-redshift studies. We present the Farmer, a comprehensive software interfacing with The Tractor to detect sources, efficiently determine the best model type for each source, and perform forced photometry in a scalable architecture.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Searching for Distant Galaxies with Hubble</title>
+      <link>https://astroweaver.github.io/project/3dhst/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/3dhst/</guid>
+      <description>&lt;p&gt;With ever increasing capability, we are now able to push galaxy evolution studies to extreme high redshift (z&amp;gt;6). At these early times, the first galaxies begin forming stars but some of their light is quickly absorbed by the neutral intergalactic medium. We utilise the unique multiplexing capacity of slitless grism spectroscopy to explore large samples of candidate systems (6&amp;lt;z&amp;lt;13) using Bayesian techniques to quantify line detections.  We present preliminary results of 29 spectroscopic candidates selected for the first time as extreme high redshift galaxies.&lt;/p&gt;
+&lt;h3 id=&#34;continued-by-julia-tiller-dawn-international-research-experience-student-nsf&#34;&gt;Continued by Julia Tiller, DAWN International Research Experience Student (NSF)&lt;/h3&gt;
+&lt;p&gt;Intensive observations required to spectroscopically secure such a faint source necessitates a careful evaluation of the photometry from which the redshift prior is based. Photometric data were re-evaluated by examining individual image cutouts to discount erroneous measurements. Of the 29 galaxies, 3 are found to be outright spurious and 17 are advanced as high-confidence candidates for follow-up observation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Farmer</title>
+      <link>https://astroweaver.github.io/project/thefarmer/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/thefarmer/</guid>
+      <description>&lt;h4 id=&#34;publication-in-preparation&#34;&gt;PUBLICATION IN PREPARATION&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;While the increasing depth and area of galaxy surveys promise definitive high-redshift studies, ever more crowded sources challenge current photometric methodology. Recent work by Lang and Hogg (2016) has provided another toolkit: The Tractor. By leveraging our understanding of galaxy morphologies, the Tractor is able to force galaxy models derived from high-resolution images onto less resolved ones, with superior deblending and robust photometric redshifts ─ advantageous for high-redshift studies. We present the Farmer, a comprehensive software interfacing with The Tractor to detect sources, efficiently determine the best model type for each source, and perform forced photometry in a scalable architecture.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Most Massive Galaxies in the Early Universe</title>
+      <link>https://astroweaver.github.io/project/massivequiescent/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/massivequiescent/</guid>
+      <description>&lt;h4 id=&#34;collaboration-with-kate-gould&#34;&gt;Collaboration with Kate Gould&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ultra-luminous Galaxies 500 Million years after the Big Bang</title>
+      <link>https://astroweaver.github.io/project/beastsjwst/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/beastsjwst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Univ. of St Andrews Astronomical Society</title>
+      <link>https://astroweaver.github.io/outreach/societies/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/outreach/societies/</guid>
+      <description>&lt;p&gt;The University of St Andrews Astronomical Society (&lt;a href=&#34;https://www.astrosoc.club/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AstroSoc&lt;/a&gt;) was established in 1972 and has grown into one of the largest student-led astronomical societies world-wide, consisting of over 200 paid members annually. We are affiliated with &lt;a href=&#34;https://www.astronomerswithoutborders.org/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Astronomers without Borders&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I re-organized the society as President in 2015 with an updated website, branding, and advertisement schemes. Other roles include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2016 &amp;ndash; Observing Director&lt;/li&gt;
+&lt;li&gt;2015 &amp;ndash; President&lt;/li&gt;
+&lt;li&gt;2014 &amp;ndash; Observing Director&lt;/li&gt;
+&lt;li&gt;2013 &amp;ndash; First Year Representative&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/societies/about_hu1c7aea97acfbb45a93817dcebd41832e_386688_875e1c567f83734074e00e7a7a27f830.jpg 400w,
+               /outreach/societies/about_hu1c7aea97acfbb45a93817dcebd41832e_386688_ff72808e1cb1f50e2253a53789111de1.jpg 760w,
+               /outreach/societies/about_hu1c7aea97acfbb45a93817dcebd41832e_386688_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/societies/about_hu1c7aea97acfbb45a93817dcebd41832e_386688_875e1c567f83734074e00e7a7a27f830.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;506&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;We host free stargazing events each Thursday night, from the comfort our of observatory facilities. Open rain or shine, we endevour to showcase the best that the universe has to offer. We have two research-grade telescopes, and many smaller ones. During our weekly stargazing sessions, we use both our 10&amp;quot; Makutov-Cassegrain LX200 and 16&amp;quot; Schmidt-Cassegrain LX200 telescopes to seek out the dimmest stars and distant galaxies.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/societies/outside_hu7b84abe8c3edb95df0d37a608eaaf1b0_3703659_5780dd8dc98953c78e0170b7f4e3d01b.png 400w,
+               /outreach/societies/outside_hu7b84abe8c3edb95df0d37a608eaaf1b0_3703659_9b57c587e8e1b5eea772e4d306209087.png 760w,
+               /outreach/societies/outside_hu7b84abe8c3edb95df0d37a608eaaf1b0_3703659_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/societies/outside_hu7b84abe8c3edb95df0d37a608eaaf1b0_3703659_5780dd8dc98953c78e0170b7f4e3d01b.png&#34;
+               width=&#34;760&#34;
+               height=&#34;421&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;We also host an annual trip to see the Aurora Borealis from the many ideal locations not far from St Andrews, such as Iceland and the northernmost regions of Norway.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /outreach/societies/aurora_hu982e44fb23dcb43e3628ba58dc79d72f_3150150_6eb0ea5acd661449154999bc1e06ebba.png 400w,
+               /outreach/societies/aurora_hu982e44fb23dcb43e3628ba58dc79d72f_3150150_2fc1a0c8752e21e82515dc0a6fb7b639.png 760w,
+               /outreach/societies/aurora_hu982e44fb23dcb43e3628ba58dc79d72f_3150150_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://astroweaver.github.io/outreach/societies/aurora_hu982e44fb23dcb43e3628ba58dc79d72f_3150150_6eb0ea5acd661449154999bc1e06ebba.png&#34;
+               width=&#34;760&#34;
+               height=&#34;399&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variable Accretion Disks</title>
+      <link>https://astroweaver.github.io/project/agnvar/</link>
+      <pubDate>Fri, 09 Jul 2021 10:34:48 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/agnvar/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;We present a study of 9258 quasars observed with multi-epoch ugriz photometry with spectroscopic redshifts as part of the SDSS Southern Survey. Using a linear model to fit the spectral variations, we isolate separate spectra for the variable (disc) non-variable(disc + galaxy) components of each quasar. We find evidence for bluer spectral slopes than predicted by cannonical accretion disc theory and excellent agreement with SMC-like dust extinction. This work provides the first direct evidence to support recent groundbreaking theoretical efforts to analytically describe accretion discs in the context of General Relativity and magnetic stress.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beasts in the Bubbles: Characterizing ultra-luminous galaxies at Cosmic Dawn</title>
+      <link>https://astroweaver.github.io/publication/weaver-2021-beasts/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2021-beasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COSMOS2020: A next-generation catalog to explore the 1&lt; z&lt; 8 universe</title>
+      <link>https://astroweaver.github.io/publication/weaver-2021-cosmos-2020/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2021-cosmos-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galaxy Protoclusters as Drivers of Cosmic Reionization</title>
+      <link>https://astroweaver.github.io/publication/martin-2021-galaxy/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/martin-2021-galaxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Survey Processing I: Compact oddballs in the COSMOS field--low-luminosity Quasars at z&gt; 6?</title>
+      <link>https://astroweaver.github.io/publication/faisst-2021-joint/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/faisst-2021-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We&#39;ve been awarded JWST Cycle 1 time!</title>
+      <link>https://astroweaver.github.io/post/jwst/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/post/jwst/</guid>
+      <description>&lt;h4 id=&#34;see-the-program-information-on-the-space-telescope-science-institutes-websitehttpswwwstsciedujwstscience-executionprogram-informationid2659&#34;&gt;See the Program Information on the &lt;a href=&#34;https://www.stsci.edu/jwst/science-execution/program-information?id=2659&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Space Telescope Science Institute&amp;rsquo;s Website&lt;/a&gt;&lt;/h4&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We propose restframe UV and optical spectroscopy to confirm redshifts and measure star-formation rates, stellar masses, and dust extinction for the five most luminous galaxies at 9&amp;lt;z&amp;lt;10 over two square degrees of the COSMOS survey. The unique combination of a wide-field near-infrared imaging coupled with new ultra-deep optical and infrared data makes this the most secure sample of 9&amp;lt;z&amp;lt;10 galaxy candidates currently available. However, these objects are too rare to be found by very deep, but smaller surveys with JWST, and the serendipitous discovery of even one such galaxy outside of COSMOS is unlikely from the entirety of planned GTO and ERS programs. These massive, luminous galaxies, seen only 500 million years after the Big Bang, are ideal tracers of the primordial dark matter structures from which they formed and grew. However, their mere existence at these early times challenges the current paradigm of early galaxy formation and evolution. Thus, it is essential to confirm their high redshift nature and reveal the means by which these remarkable cosmic beasts so rapidly built up their stellar mass.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/jwst/goals_huf6199c75f5ef4c5017448c8c9dc49029_346278_011fc778df35b6ef5a204a7e605dee2b.png 400w,
+               /post/jwst/goals_huf6199c75f5ef4c5017448c8c9dc49029_346278_38f3d071590b28370c16d2249e6cdb9a.png 760w,
+               /post/jwst/goals_huf6199c75f5ef4c5017448c8c9dc49029_346278_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://astroweaver.github.io/post/jwst/goals_huf6199c75f5ef4c5017448c8c9dc49029_346278_011fc778df35b6ef5a204a7e605dee2b.png&#34;
+               width=&#34;760&#34;
+               height=&#34;497&#34;
+               loading=&#34;lazy&#34; data-zoomable class=&#34; img-dark&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Method to Distinguish Quiescent and Dusty Star-forming Galaxies with Machine Learning</title>
+      <link>https://astroweaver.github.io/publication/steinhardt-2020-method/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/steinhardt-2020-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of stellar populations in simulated and real post-starburst galaxies in MaNGA</title>
+      <link>https://astroweaver.github.io/publication/zheng-2020-comparison/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/zheng-2020-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding High Redshift Galaxies Using the 3D-HST Survey</title>
+      <link>https://astroweaver.github.io/publication/tiller-2020-finding/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/tiller-2020-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving star-galaxy seperation with neural networks</title>
+      <link>https://astroweaver.github.io/publication/sneppen-2020-improving/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/sneppen-2020-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The BUFFALO HST Survey</title>
+      <link>https://astroweaver.github.io/publication/steinhardt-2020-buffalo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/steinhardt-2020-buffalo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Farmer: Improved model-based photometry for the next generation of galaxy surveys</title>
+      <link>https://astroweaver.github.io/publication/weaver-2019-farmer/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2019-farmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History and destiny of an emerging early-type galaxy-New IFU insights on the major-merger remnant NGC 7252</title>
+      <link>https://astroweaver.github.io/publication/weaver-2018-history/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2018-history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integral Field Spectroscopy of the Merger Remnant NGC 7252</title>
+      <link>https://astroweaver.github.io/publication/weaver-2018-integral/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2018-integral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for Extreme High Redshift Galaxies with HST Grism Spectroscopy</title>
+      <link>https://astroweaver.github.io/publication/weaver-2017-searching/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2017-searching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BUFFALO Survey</title>
+      <link>https://astroweaver.github.io/project/buffalo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/buffalo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Euclid Mission</title>
+      <link>https://astroweaver.github.io/project/euclid/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/euclid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cosmic Dawn Survey</title>
+      <link>https://astroweaver.github.io/project/cosmicdawn/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/cosmicdawn/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://dawn.ipac.caltech.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cosmic Dawn Survey&lt;/a&gt; is a 50 square degree multi-wavelength survey of the Euclid Deep and Calibration fields. The scientific aim is to understand the co-evolution of galaxies, black holes, and the dark matter haloes that host them from Re-Ionization (z~12, about 500 million years after the big-bang) to the present (z~0).  The current dataset comprises ultra-deep griz imaging as part of the &lt;a href=&#34;https://project.ifa.hawaii.edu/h20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H20 Survey&lt;/a&gt; and IRAC infrared imaging from the Spitzer Legacy Survey, and will eventually include near-infrared imaging from the Euclid Space Mission from 2022. I am a co-lead of the photometric extraction, redshift computation, and physical parameters team, using The Farmer to produce bleeding-edge measurements of galaxy properties.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Cosmic Evolution Survey</title>
+      <link>https://astroweaver.github.io/project/cosmos/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/cosmos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hawaii 2-0 Survey</title>
+      <link>https://astroweaver.github.io/project/h20/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/project/h20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Localized Star Clusters in NGC 1427A</title>
+      <link>https://astroweaver.github.io/publication/weaver-2016-survey/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2016-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://astroweaver.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

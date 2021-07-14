@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | John R. Weaver</title>
+    <link>https://astroweaver.github.io/publication/</link>
+      <atom:link href="https://astroweaver.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 John Weaver</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://astroweaver.github.io/media/icon_hud2deb781e67c92bf3648344da244734d_232030_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://astroweaver.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Beasts in the Bubbles: Characterizing ultra-luminous galaxies at Cosmic Dawn</title>
+      <link>https://astroweaver.github.io/publication/weaver-2021-beasts/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2021-beasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COSMOS2020: A next-generation catalog to explore the 1&lt; z&lt; 8 universe</title>
+      <link>https://astroweaver.github.io/publication/weaver-2021-cosmos-2020/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2021-cosmos-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galaxy Protoclusters as Drivers of Cosmic Reionization</title>
+      <link>https://astroweaver.github.io/publication/martin-2021-galaxy/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/martin-2021-galaxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Survey Processing I: Compact oddballs in the COSMOS field--low-luminosity Quasars at z&gt; 6?</title>
+      <link>https://astroweaver.github.io/publication/faisst-2021-joint/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/faisst-2021-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Method to Distinguish Quiescent and Dusty Star-forming Galaxies with Machine Learning</title>
+      <link>https://astroweaver.github.io/publication/steinhardt-2020-method/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/steinhardt-2020-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of stellar populations in simulated and real post-starburst galaxies in MaNGA</title>
+      <link>https://astroweaver.github.io/publication/zheng-2020-comparison/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/zheng-2020-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding High Redshift Galaxies Using the 3D-HST Survey</title>
+      <link>https://astroweaver.github.io/publication/tiller-2020-finding/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/tiller-2020-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving star-galaxy seperation with neural networks</title>
+      <link>https://astroweaver.github.io/publication/sneppen-2020-improving/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/sneppen-2020-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The BUFFALO HST Survey</title>
+      <link>https://astroweaver.github.io/publication/steinhardt-2020-buffalo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/steinhardt-2020-buffalo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Farmer: Improved model-based photometry for the next generation of galaxy surveys</title>
+      <link>https://astroweaver.github.io/publication/weaver-2019-farmer/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2019-farmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History and destiny of an emerging early-type galaxy-New IFU insights on the major-merger remnant NGC 7252</title>
+      <link>https://astroweaver.github.io/publication/weaver-2018-history/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2018-history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integral Field Spectroscopy of the Merger Remnant NGC 7252</title>
+      <link>https://astroweaver.github.io/publication/weaver-2018-integral/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2018-integral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for Extreme High Redshift Galaxies with HST Grism Spectroscopy</title>
+      <link>https://astroweaver.github.io/publication/weaver-2017-searching/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2017-searching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Localized Star Clusters in NGC 1427A</title>
+      <link>https://astroweaver.github.io/publication/weaver-2016-survey/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://astroweaver.github.io/publication/weaver-2016-survey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
