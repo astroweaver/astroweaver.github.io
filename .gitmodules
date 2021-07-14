@@ -1,0 +1,4 @@
+[submodule "astroweaver.github.io"]
+	path = astroweaver.github.io
+	url = https://github.com/astroweaver/astroweaver.github.io
+	branch = master
