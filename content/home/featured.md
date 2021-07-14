@@ -1,33 +1,35 @@
 ---
-# An instance of the Featured widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
-
-# This file represents a page section.
-headless: true
+headless: true  # This file represents a page section.
 
 # Order that this section appears on the page.
-weight: 80
+weight: 45
 
-title: Featured Publications
-subtitle: ""
+# Section title
+title: 
+
+# Section subtitle
+subtitle:
+
+# Section design
+design:
+  # Use a 1-column layout
+  columns: "2"
 
 content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: publication
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
-  # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    publication_type: ""
-    tag: ""
-  # Page order: descending (desc) or ascending (asc) date.
+  # Page type to display. E.g. post, event, or publication.
+  page_type: post
+  # Choose how much pages you would like to display (0 = all pages)
+  count: 1
+  # Page order. Descending (desc) or ascending (asc) date.
   order: desc
-
+  # Optionally filter posts by a taxonomy term.
+  filters:
+    tag: ''
+    category: ''
+    publication_type: ''
 design:
-  # Choose a view for the listings:
+  # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card

@@ -7,24 +7,22 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Research
+    url: '#research'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Outreach
+    url: '#outreach'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: CV
+    url: uploads/CV_Weaver.pdf
     weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: AVSpec
+    url: 'https://www.aavso.org/apps/avspec/'
     weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
- - name: CV
-   url: uploads/CV_Weaver.pdf
-   weight: 70
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

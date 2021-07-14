@@ -26,16 +26,21 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/astroweaver
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0003-1614-196X
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/astroweaver/
 organizations:
-  - name: Cosmic Dawn Center, University of Copenhagen
+  - name: Cosmic Dawn Center
     url: https://cosmicdawn.dk/
+  - name: Niels Bohr Institute
+  - name: University of Copenhagen
 education:
   courses:
     - course: PhD in Astrophysics
-      institution: University of Copenhagen
+      institution: University of Copenhagen (expected)
       year: 2021
     - course: MPhys in Physics with Astrophysics
       institution: University of St Andrews
