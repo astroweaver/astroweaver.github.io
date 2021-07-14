@@ -16,12 +16,18 @@ main:
   - name: CV
     url: uploads/CV_Weaver.pdf
     weight: 40
+  - name: COSMOS2020
+    url: 'https://cosmos2020.calet.org/'
+    weight: 50
+  - name: The Farmer
+    url: 'https://github.com/astroweaver/the_farmer'
+    weight: 60
   - name: AVSpec
     url: 'https://www.aavso.org/apps/avspec/'
-    weight: 50
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 80
 
 
 # Link to a PDF of your resume/CV from the menu.

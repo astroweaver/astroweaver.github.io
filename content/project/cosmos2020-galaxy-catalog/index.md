@@ -1,11 +1,12 @@
 ---
-title: COSMOS2020 Galaxy Catalog
+title: COSMOS2020
 date: 2021-07-09T10:34:48.352Z
-summary: A near-infrared selected catalog of 1.7 million galaxies
+summary: A near-infrared selected catalog of 1.7 million galaxies with precise photometric redshifts
 draft: false
 featured: false
 tags:
-  - Surveys
+  - Galaxy Evolution
+  - Featured
 external_link: https://cosmos.astro.caltech.edu/
 links: []
 image:

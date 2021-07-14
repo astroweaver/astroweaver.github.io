@@ -24,6 +24,6 @@ design:
 
 ---
 
-{{< gallery-slider dir="/astrophot" auto-slide="0" width="500px" height="300px">}}
+{{< gallery-slider dir="/astrophot" auto-slide="5000" width="500px" height="300px">}}
 
 

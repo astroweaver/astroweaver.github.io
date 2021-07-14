@@ -12,4 +12,4 @@ headless: true
 weight: 21
 ---
 <!-- {{< figure src="affil_dark.png" theme="dark" >}} -->
-{{< figure src="affil_light.png" theme="light" >}}
+{{< figure src="affil_dark.png" theme="dark" >}}

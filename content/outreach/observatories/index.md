@@ -17,20 +17,25 @@ Since 2008, I have volunteered 1000+ hours at observatories (and one planetarium
 
 {{< figure src="frostydrew.jpg" >}}
 ## [Frosty Drew Observatory](https://frostydrew.org/)
-Ninigrit Park, US (2013 - 2018)
+#### Ninigrit Park, US (2014 - 2018)
+Summer Intern (2014) and Associate Observer
 
 {{< figure src="sta.jpg" >}}
 ## [University Observatory](https://observatory.wp.st-andrews.ac.uk/)
-St Andrews, UK (2013 - 2018)
+#### St Andrews, UK (2013 - 2018)
+Observing Director through AstroSoc
 
 {{< figure src="mmo.jpg" >}}
 ## [Maria Mitchell Observatory](https://www.mariamitchell.org/research-and-collections/astronomy/research)
-Ninigrit Park, US (2015)
+#### Nantucker, US (2015)
+Student intern, attached to undergraduate research program (REU)
 
 {{< figure src="olin.jpg" >}}
 ## [Olin Observatory](https://www.conncoll.edu/sciences/science-facilities/observatories/)
-Connecticut College, US (2012 - 2013)
+#### Connecticut College, US (2012 - 2013)
+Student helper and observer
 
 {{< figure src="treworgy.jpg" >}}
 ## [Treworgy Planetarium](https://www.mysticseaport.org/explore/planetarium/)
-Mystic Seaport, US (2008, 2013)
+#### Mystic Seaport, US (2008, 2013)
+Student intern
