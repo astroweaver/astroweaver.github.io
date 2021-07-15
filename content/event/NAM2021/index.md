@@ -1,6 +1,31 @@
 ---
-abstract: >
-  The current state-of-the-art observational constraints on the evolution of the
+abstract: UK National Astronomy Meeting  
+slides: example
+url_pdf: ""
+title: "Beasts in the Bubbles: Measurement of the Massive End of z > 8 UV
+  Luminosity Function"
+location: University of Bath, Online
+date: 2021-07-19T11:15:12.073Z
+date_end: 2021-07-19T15:00:00.000Z
+all_day: true
+event: UK National Astronomy Meeting
+event_url: https://nam2021.org/
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
+links: []
+publishDate: 2017-01-01T00:00:00.000Z
+tags: [contributed]
+projects:
+  - beastsjwst
+image:
+  caption: ""
+  focal_point: Right
+  filename: featured.png
+url_code: ""
+---
+The current state-of-the-art observational constraints on the evolution of the
   most massive and most UV-luminous galaxies at z > 8, and their growth in
   relation to large-scale structure and reionization, are derived from
   measurements of the UV Luminosity Function (UV LF). Here we present powerful
@@ -20,34 +45,3 @@ abstract: >
   their dust attenuation, morphology, and stellar assembly histories. These new
   insights will provide the context necessary to understand the formation of the
   most massive, and UV-luminous galaxies in the EoR.
-slides: example
-url_pdf: ""
-title: "Beasts in the Bubbles: Measurement of the Massive End of z > 8 UV
-  Luminosity Function"
-location: University of Bath, Online
-date: 2021-07-19T11:15:12.073Z
-date_end: 2021-07-19T15:00:00.000Z
-all_day: true
-event: UK National Astronomy Meeting
-event_url: https://nam2021.org/
-featured: false
-authors: []
-url_video: ""
-url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
-links: []
-publishDate: 2017-01-01T00:00:00.000Z
-tags: []
-projects:
-  - beastsjwst
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
-  focal_point: Right
-  filename: featured.png
-url_code: ""
----
