@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: Minimal
 day_night: true
 font: ''
 font_size: L
@@ -15,8 +15,8 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: 'Astrophysics and Galaxy Evolution Researcher'
+twitter: 'astroweave'
 
 # Contact (edit or remove options as required)
 
@@ -31,11 +31,7 @@ address:
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+
 
 
 # Site header
@@ -78,7 +74,7 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true
@@ -95,7 +91,7 @@ avatar:
   shape: circle
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: mla
 projects:
   post_view: 2
   publication_view: 2
@@ -106,11 +102,11 @@ breadcrumb:
 comments:
   provider: ''
   commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
+    post: false
+    book: false
+    project: false
+    publication: false
+    event: false
   disqus:
     shortname: ''
     show_count: true
@@ -130,7 +126,7 @@ map:
 marketing:
   google_analytics: ''
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: 'googlea05fe2a54d7d6c02.html'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:

@@ -13,7 +13,7 @@ image:
 ## [Astrobites](https://astrobites.org/)
 Astrobites features daily summaries of academic papers submitted to the ArXiv in the field of astronomy. Most articles are written by graduate students with the aim of a brief but comprehensive coverage of the background, methods, and conclusions. On occasion, we highlight outstanding undergraduate research, and tips for graduate school.
 
-I am a rotation writer for 2019 and 2020, contributing one article per month as well as serving as a peer editor. A listing of my articles can be found [here](https://astrobites.org/author/jweaver/). Here are some recent ones:
+I was a rotation writer for 2019 and 2020, contributing one article per month as well as serving as a peer editor. A listing of my articles can be found [here](https://astrobites.org/author/jweaver/). Here are some recent ones:
 
 > MAY 2020<br>
 [The Missing Link: New Insights from Post-starburst Outflows](https://astrobites.org/2020/04/17/the-missing-link-new-insights-from-post-starburst-outflows/)<br>
