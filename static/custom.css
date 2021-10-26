@@ -2,13 +2,13 @@ header {
   position: relative;
   background-color: black;
   height: 500px;
-  min-height: 200px;
+  min-height: 300px;
   width: 100%;
   overflow: hidden;
 }
 
 .home-section {
-  padding: 0px 0 0px 0;
+  padding: 30px 0 30px 0;
 }
 
   header video {
@@ -50,4 +50,6 @@ header {
       display: none;
     }
   }
+  
+
   
