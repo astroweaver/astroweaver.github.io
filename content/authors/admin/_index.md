@@ -41,7 +41,7 @@ education:
   courses:
     - course: PhD in Astrophysics
       institution: University of Copenhagen (expected)
-      year: 2021
+      year: 2022
     - course: MPhys in Physics with Astrophysics
       institution: University of St Andrews
       year: 2018

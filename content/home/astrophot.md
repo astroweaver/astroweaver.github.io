@@ -22,8 +22,7 @@ design:
   # Use a 1-column layout
   columns: "2"
 
+
 ---
 
-{{< gallery-slider dir="/astrophot" auto-slide="5000" width="500px" height="300px">}}
-
-
+{{< gallery album="astrophot" >}}

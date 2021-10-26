@@ -18,6 +18,7 @@ design:
 <header>
   <div class="overlay"></div>
   <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-    <source src="media/hudf_fly.mp4#t=50,70" type="video/mp4">
+    <source src="media/hudf_fly.mp4#t=40,70" type="video/mp4">
   </video>
 </header>
+<p><span style="color: #999999;"><small>Hubble Ultra Deep Field | NASA, ESA, and F. Summers</small></span></p>
