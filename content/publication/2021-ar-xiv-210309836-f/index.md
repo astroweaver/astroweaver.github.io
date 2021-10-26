@@ -9,8 +9,7 @@ authors:
 - Andreas L. Faisst
 - Ranga Ram Chary
 - John R. Weaver
-- Seiji Fujimoto
-- Olivier Ilbert
+- and Others
 tags:
 - '"Astrophysics - Astrophysics of Galaxies"'
 categories: []
