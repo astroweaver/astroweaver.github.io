@@ -22,47 +22,48 @@ authors:
 - J. Vinther
 - P. Capak
 - C.~M. Casey
-- C.~J.~R. McPartland
-- B. Milvang-Jensen
-- B. Mobasher
-- D.~B. Sanders
-- L. Zalesky
-- S. Arnouts
-- H. Aussel
-- J.~S. Dunlop
-- A. Faisst
-- M. Franx
-- L.~J. Furtak
-- J.~P.~U. Fynbo
-- K.~M.~L. Gould
-- T.~R. Greve
-- S. Gwyn
-- J.~S. Kartaltepe
-- D. Kashino
-- A.~M. Koekemoer
-- V. Kokorev
-- O. Le Fevre
-- S. Lilly
-- D. Masters
-- G. Magdis
-- V. Mehta
-- Y. Peng
-- D.~A. Riechers
-- M. Salvato
-- M. Sawicki
-- C. Scarlata
-- N. Scoville
-- R. Shirley
-- A. Sneppen
-- V. Smolcic
-- C. Steinhardt
-- D. Stern
-- M. Tanaka
-- Y. Taniguchi
-- H.~I. Teplitz
-- M. Vaccari
-- W. -H. Wang
-- G. Zamorani
+- and Others
+# - C.~J.~R. McPartland
+# - B. Milvang-Jensen
+# - B. Mobasher
+# - D.~B. Sanders
+# - L. Zalesky
+# - S. Arnouts
+# - H. Aussel
+# - J.~S. Dunlop
+# - A. Faisst
+# - M. Franx
+# - L.~J. Furtak
+# - J.~P.~U. Fynbo
+# - K.~M.~L. Gould
+# - T.~R. Greve
+# - S. Gwyn
+# - J.~S. Kartaltepe
+# - D. Kashino
+# - A.~M. Koekemoer
+# - V. Kokorev
+# - O. Le Fevre
+# - S. Lilly
+# - D. Masters
+# - G. Magdis
+# - V. Mehta
+# - Y. Peng
+# - D.~A. Riechers
+# - M. Salvato
+# - M. Sawicki
+# - C. Scarlata
+# - N. Scoville
+# - R. Shirley
+# - A. Sneppen
+# - V. Smolcic
+# - C. Steinhardt
+# - D. Stern
+# - M. Tanaka
+# - Y. Taniguchi
+# - H.~I. Teplitz
+# - M. Vaccari
+# - W. -H. Wang
+# - G. Zamorani
 tags:
 - '"Astrophysics - Astrophysics of Galaxies"'
 - '"Astrophysics - Cosmology and Nongalactic Astrophysics"'
