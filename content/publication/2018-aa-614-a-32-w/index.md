@@ -25,7 +25,7 @@ tags:
 - '"Astrophysics - Astrophysics of Galaxies"'
 categories: []
 date: '2018-06-01'
-lastmod: 2021-10-26T19:51:55+02:00
+lastmod: 2021-10-28T12:31:35+02:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-26T17:51:55.613139Z'
+publishDate: '2021-10-28T10:31:35.288857Z'
 publication_types:
 - '2'
 abstract: ''

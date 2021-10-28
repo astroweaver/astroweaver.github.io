@@ -8,13 +8,19 @@ summary: ''
 authors:
 - Andreas L. Faisst
 - Ranga Ram Chary
+- Sergio Fajardo-Acosta
+- Roberta Paladini
+- Benjamin Rusholme
+- Nathaniel Stickley
+- George Helou
 - John R. Weaver
-- and Others
+- Anton M. Koekemoer
+- Hironao Miyatake
 tags:
 - '"Astrophysics - Astrophysics of Galaxies"'
 categories: []
 date: '2021-03-01'
-lastmod: 2021-10-26T19:51:54+02:00
+lastmod: 2021-10-28T12:31:34+02:00
 featured: false
 draft: false
 
@@ -32,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-26T17:51:53.893471Z'
+publishDate: '2021-10-28T10:31:34.065887Z'
 publication_types:
 - '2'
 abstract: ''

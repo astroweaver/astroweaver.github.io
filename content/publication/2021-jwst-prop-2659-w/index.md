@@ -6,13 +6,36 @@ subtitle: ''
 summary: ''
 authors:
 - John Raymond Weaver
-- Olivier Benjamin Kauffmann
+- Gabriel Brammer
+- Caitlin M. Casey
+- Nima Chartab Soltani
+- Iary Davidzon
+- Andreas L. Faisst
+- Steven L. Finkelstein
+- Seiji Fujimoto
+- Katriona Mai Landau Gould
 - Olivier Ilbert
-- and Others
+- Christian Kragh Jespersen
+- Olivier Benjamin Kauffmann
+- Georgios Magdis
+- Henry Joy McCracken
+- Conor McPartland
+- Bo Milvang-Jensen
+- Bahram Mobasher
+- Pascal Oesch
+- David B. Sanders
+- Claudia Scarlata
+- Marko Shuntov
+- Charles Louis Steinhardt
+- Daniel K. Stern
+- Istvan Szapudi
+- Sune Toft
+- Francesco Maria Valentino
+- Lukas Zalesky
 tags: []
 categories: []
 date: '2021-03-01'
-lastmod: 2021-10-26T19:51:53+02:00
+lastmod: 2021-10-28T12:31:34+02:00
 featured: false
 draft: false
 
@@ -30,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-26T17:51:53.647317Z'
+publishDate: '2021-10-28T10:31:33.932329Z'
 publication_types:
 - '0'
 abstract: ''
