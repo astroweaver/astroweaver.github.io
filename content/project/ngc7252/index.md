@@ -6,11 +6,13 @@ draft: false
 featured: false
 tags:
   - Galaxy Evolution
-external_link: https://cosmos.astro.caltech.edu/
 links: []
 image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
-The COSMOS survey is one the longest-running galaxy surveys. Over two decades, we have collected observations of x-ray, optical, infrared, and radio light to obtain galaxy distances and understand their evolution over 13.7 billion years of cosmic history. I lead the 2020 edition of the master galaxy catalog, using bleeding-edge galaxy model-fitting techniques from The Farmer to measure galaxy properties.
+### PAPER: https://arxiv.org/abs/1801.09691
+
+
+NGC7252, which is one of the nearest major-merger galaxy remnants, is an ideal laboratory to study the processes inherent to the transformation of disc galaxies to ellipticals as observed about ~1Gyr after the collision. We obtained wide-field IFU spectroscopy with the VLT-VIMOS integral-field spectrograph covering the central 50"x50" of NGC7252 to map the stellar and ionised gas kinematics, and the distribution and conditions of the ionised gas, revealing the extent of ongoing star formation and recent star formation history. We find that the inner gas disc is not counter-rotating with respect to the stars and that the stellar kinematics appear complex with a clear indication of a prolate-like rotation component suggesting a polar merger configuration. The ongoing star formation rate is 2.2+-0.6 M_sun/yr and implies a typical depletion time of 2Gyr given the molecular gas content. Furthermore, the spatially-resolved star formation history suggests a slight radial dependence, moving outwards at later times. We confirm a large AGN-ionised gas cloud previously discovered 5kpc south of the nucleus, and find higher ionisation also at the galaxy centre relative to the surrounding gas disc. Although the higher ionisation towards the centre is potentially degenerate within the central star forming ring, it may be associated with a low-luminosity AGN. Although NGC7252 has been classified as post-starburst galaxy at the centre, the elliptical-like major-merger remnant still appears very active. A central kpc-scale gas disc has presumably re-formed quickly within the last 100Myr after final coalescence. The disc features ongoing star formation, implying Gyr long timescale to reach the red sequence through gas consumption alone. While NGC7252 is useful to probe the transformation from discs to ellipticals, it is not well-suited to study the transformation from blue to red at this point.

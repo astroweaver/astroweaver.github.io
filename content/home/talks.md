@@ -10,11 +10,11 @@ headless: true
 weight: 50
 
 title: 'Recent & Upcoming Talks'
-subtitle: 26 Talks & 8 Posters since 2015
+subtitle: 27 Talks & 8 Posters since 2015
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: event
+  page_type: talk
   # Choose how many pages you would like to display (0 = all pages)
   count: 3
   # Filter on criteria
