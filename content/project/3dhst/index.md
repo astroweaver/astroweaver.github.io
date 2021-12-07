@@ -13,7 +13,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-### [LINK TO POSTER](leiden_threedhst.png)
+### [LINK TO POSTER](leiden_threedhst.pdf)
 
 With ever increasing capability, we are now able to push galaxy evolution studies to extreme high redshift (z>6). At these early times, the first galaxies begin forming stars but some of their light is quickly absorbed by the neutral intergalactic medium. We utilise the unique multiplexing capacity of slitless grism spectroscopy to explore large samples of candidate systems (6<z<13) using Bayesian techniques to quantify line detections.  We present preliminary results of 29 spectroscopic candidates selected for the first time as extreme high redshift galaxies. 
 

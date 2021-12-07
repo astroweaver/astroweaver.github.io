@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: 'Recent & Upcoming Talks'
-subtitle: 27 Talks & 8 Posters since 2015
+subtitle: 29 Talks & 8 Posters since 2015
 
 content:
   # Page type to display. E.g. post, event, publication...

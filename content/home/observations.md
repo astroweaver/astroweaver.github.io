@@ -10,7 +10,7 @@ headless: true
 weight: 46
 
 title: 'Observing Programs'
-subtitle: (1 [PI](https://astroweaver.github.io/tag/pi), 12 [CO-I](https://astroweaver.github.io/tag/coi)) 500+ hours <br> Group by facility <br> [JWST](https://astroweaver.github.io/tag/jwst) | [Subaru](https://astroweaver.github.io/tag/subaru) | [Keck](https://astroweaver.github.io/tag/keck) | [ALMA](https://astroweaver.github.io/tag/alma) | [VLT](https://astroweaver.github.io/tag/vlt)
+subtitle: (1 [PI](https://astroweaver.github.io/tag/pi), 16 [CO-I](https://astroweaver.github.io/tag/coi)) 500+ hours <br> Group by facility <br> [JWST](https://astroweaver.github.io/tag/jwst) | [Subaru](https://astroweaver.github.io/tag/subaru) | [Keck](https://astroweaver.github.io/tag/keck) | [ALMA](https://astroweaver.github.io/tag/alma) | [VLT](https://astroweaver.github.io/tag/vlt)
 
 content:
   # Page type to display. E.g. post, event, publication...
