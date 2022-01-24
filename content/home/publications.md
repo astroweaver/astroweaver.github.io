@@ -10,7 +10,7 @@ headless: true
 weight: 55
 
 title: Recent Publications
-subtitle: 'Total Refereed: 10 <br> As First Author: 2'
+subtitle: 'Total Refereed: 10 <br> As First Author: 3'
 
 content:
   # Page type to display. E.g. post, talk, publication...
