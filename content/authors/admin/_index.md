@@ -1,6 +1,6 @@
 ---
 title: John R. Weaver
-role: PhD Fellow in Astrophysics
+role: Postdoctoral Research Associate
 avatar_filename: avatar.jpg
 bio: My research interests lie almost exclusively within the realm of
   extragalactic astrophysics and cosmology. I use state-of-the-art optical and
@@ -33,14 +33,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/astroweaver/
 organizations:
-  - name: Cosmic Dawn Center
-    url: https://cosmicdawn.dk/
-  - name: Niels Bohr Institute
-  - name: University of Copenhagen
+  - name: University of Massachusetts Amherst
+    url: https://www.astro.umass.edu/
+  - name: Department of Astronomy
 education:
   courses:
     - course: PhD in Astrophysics
-      institution: University of Copenhagen (expected)
+      institution: University of Copenhagen
       year: 2022
     - course: MPhys in Physics with Astrophysics
       institution: University of St Andrews
@@ -49,7 +48,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a Postdoc based at the [University of Massachusetts Amherst](https://www.umass.edu/) in [Kate Whitaker's Group](https://www.astrowhit.com/). I recieved my PhD in 2022 from the [Cosmic Dawn Center](https://cosmicdawn.dk/) advised by Sune Toft, with Peter Capak (fmr. Caltech/IPAC), Henry McCracken (IAP), Bahram Mobasher (UCR), and Dave Sanders (IfA/Hawaii). I received my Masters degree in 2018 from the [University of St Andrews](https://www.st-andrews.ac.uk/) advised by Vivienne Wild. My research focuses on the assembly and evolution of galaxies across the history of the Universe, through direct observation with telescopes from both space and the ground.\
+I am a Postdoc based at the [University of Massachusetts Amherst](https://www.astro.umass.edu/) in [Kate Whitaker's Group](https://www.astrowhit.com/). I recieved my PhD in 2022 from the [Cosmic Dawn Center](https://cosmicdawn.dk/) advised by Sune Toft, with Peter Capak (fmr. Caltech/IPAC), Henry McCracken (IAP), Bahram Mobasher (UCR), and Dave Sanders (IfA/Hawaii). I received my Masters degree in 2018 from the [University of St Andrews](https://www.st-andrews.ac.uk/) advised by Vivienne Wild. My research focuses on the assembly and evolution of galaxies across the history of the Universe, through direct observation with telescopes from both space and the ground.\
 \
 I have held internship or visiting positions at the [California Institute of Technology](https://www.ipac.caltech.edu/), the [University of Hawaii](http://www.ifa.hawaii.edu/), the [Max-Planck Institute for Astronomy](https://www.mpia.de/en), [Leiden Observatory](https://www.universiteitleiden.nl/en/science/astronomy), and the [Maria Mitchell Observatory](http://www.mariamitchell.org/research-and-collections/astronomy/research). I also led the creation of the spectroscopy database [AVSpec](https://www.aavso.org/apps/avspec/) for the [American Association of Variable Star Observers](https://www.aavso.org/) as a Mayall Fellow.\
 \
