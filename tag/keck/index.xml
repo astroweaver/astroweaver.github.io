@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Keck | John R. Weaver</title><link>https://astroweaver.github.io/tag/keck/</link><atom:link href="https://astroweaver.github.io/tag/keck/index.xml" rel="self" type="application/rss+xml"/><description>Keck</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 John Weaver</copyright><lastBuildDate>Sat, 12 Feb 2022 11:15:12 +0000</lastBuildDate><image><url>https://astroweaver.github.io/media/icon_hu8aa0ad29c1aef247d70f689e43804a72_335286_512x512_fill_lanczos_center_3.png</url><title>Keck</title><link>https://astroweaver.github.io/tag/keck/</link></image><item><title>The Webb Epoch of Reionization Lyman-alpha Survey (WERLS)</title><link>https://astroweaver.github.io/observation/2022_keck_werls_casey/</link><pubDate>Sat, 12 Feb 2022 11:15:12 +0000</pubDate><guid>https://astroweaver.github.io/observation/2022_keck_werls_casey/</guid><description>&lt;p>NASA Key Strategic Mission Support | Keck/MOSFIRE+LRIS | 29N | PI - C. Casey &amp;amp; J. Kartaltepe&lt;/p>
+&lt;p>We propose the Webb Epoch of Reionization Lyman-alpha Survey (WERLS), a spectroscopic redshift survey using MOSFIRE and LRIS, targeting ~800 galaxies embedded within the Epoch of Reionization (EoR) at 6&amp;lt;z&amp;lt;8. Our goals are to:&lt;/p>
+&lt;ol>
+&lt;li>conduct a census of Ly-alpha emission in already identified luminous EoR galaxies (M_UV&amp;lt; -21) to map ionization bubbles in the intergalactic medium at a time when the Universe was partially ionized and on scales much larger than the expected size of ionization bubbles,&lt;/li>
+&lt;li>directly compare the Ly-alpha-inferred location of ionization bubbles to underlying galaxy density maps that will be measured via deep Webb NIRCam imaging to directly constrain the galaxies responsible for reionization, and&lt;/li>
+&lt;li>increase the number of spectroscopically-confirmed bright EoR sources by a factor of ~2-4x within 6&amp;lt;z&amp;lt;8 via firm detection of Ly-alpha emission, which will critically inform photometric redshift calibration of fainter EoR-era galaxies exclusively detected by Webb.
+This survey will be conducted in preparation for, and in conjunction with, the largest and deepest extragalactic imaging surveys from the James Webb Space Telescope Cycle 1 and ERS programs covering 0.7deg^2: COSMOS-Webb, PRIMER-UDS, and CEERS. These programs aim to reveal several thousands of EoR galaxies and map their distribution in large scale structure on 10-100Mpc scales. WERLS will focus on already-identified bright galaxies in these surveys, which likely trace the highest mass overdensities to be found by Webb; detection of Lyman-alpha will reveal whether or not they live in ionized bubbles.&lt;/li>
+&lt;/ol></description></item><item><title>Exploring UV-bright galaxies at z~9-10</title><link>https://astroweaver.github.io/observation/2022_keck_beasts_mobasher/</link><pubDate>Wed, 12 Jan 2022 11:15:12 +0000</pubDate><guid>https://astroweaver.github.io/observation/2022_keck_beasts_mobasher/</guid><description>&lt;p>Keck/MOSFIRE | 2N | PI - B. Mobasher&lt;/p>
+&lt;p>The environmental dependence of galaxy properties today requires an accelerated assembly history in high density environments. Protoclusters, the overdense regions of
+the universe that ultimately collapse into massive galaxy clusters, contribute a significant fraction of all cosmic star formation during the era of reionization. The galaxy
+overdensity may enhance the escape of ionizing photons, making protoclusters crucial in driving the timing and topology of cosmic reionization. We propose to measure
+the brightest rest-frame-optical emission lines from spectrosopically-confirmed galaxies comprising the largest overdensity yet identified near the midpoint of cosmic
+reionization, z7OD. Eight protocluster members, identified by their Lyman-alpha emission, are the primary targets for these NIRSpec MOS observations, which will
+measure rest-frame optical emission lines between the [OII] doublet and hydrogen Balmer alpha lines. We aim to measure the transmission of the IGM in and around an
+ionized, cosmic bubble, determine the physical properties of the galaxies that ionized the bubble, and compare them to field galaxies at z &amp;gt; 3.37 (observed
+simultaneously). We will measure the Lyman-alpha escape fraction and the Lyman-alpha velocity offset, information required to map spatial variation in IGM transmission.
+Protoclusters at this redshift are predicted to contain significant amount of cold gas, possibly triggering high specific star formation rates and accelerating the chemical
+evolution of the galaxies; ideas we will test by directly measuring diagnostic emission-line ratios&lt;/p></description></item><item><title>Follow-up spectroscopy for a protocluster of quiescent galaxies at z = 2.8</title><link>https://astroweaver.github.io/observation/2022_subaru_ito/</link><pubDate>Wed, 12 Jan 2022 11:15:12 +0000</pubDate><guid>https://astroweaver.github.io/observation/2022_subaru_ito/</guid><description>&lt;p>Keck/MOSFIRE | 1N | PI - K. Ito&lt;/p>
+&lt;p>We propose to conduct MOSFIRE spectroscopy for an overdense
+region of massive (log M⋆/M⊙&amp;gt;10.5) quiescent galaxies at z= 2.8, which is newly found from the latest COSMOS2020 catalog. Though
+many passive galaxies exist in local
+galaxy clusters, most known protoclusters are found by only star
+-forming galaxies. Protoclusters consisting of quiescent
+galaxies had not been found at
+z &amp;gt; 2. The high-redshift structures of quiescent galaxies are unique a
+nd expected to
+provide an insight into the (proto)cluster evolution and the connec
+tion between the environment and the quenching. Our
+goals of this proposal are 1). to spectroscopically confirm the str
+ucture from Balmer absorption lines of 12 quiescent
+galaxies therein and 2). to explore their star formation history thr
+ough the observed spectrum and plenty of multi-band
+photometry data. The derived star formation history will conclude
+the primordial environmental effect on the stellar age
+and constrain the progenitor of this structure. If this structur
+e is spectroscopically confirmed, this is the most distant
+protocluster of quiescent galaxies, which will be an ideal laboratory
+for conducting the follow-up observation, such as by
+ALMA.&lt;/p></description></item><item><title>The emergence of the first quiescent galaxies - take 2</title><link>https://astroweaver.github.io/observation/2022_subaru_tanaka/</link><pubDate>Wed, 12 Jan 2022 11:15:12 +0000</pubDate><guid>https://astroweaver.github.io/observation/2022_subaru_tanaka/</guid><description>&lt;p>Keck/MOSFIRE | 2N | PI - M. Tanaka&lt;/p>
+&lt;p>We propose for 2 nights of Keck/MOSFIRE observations to follow-up a z ∼ 4.7 quiescent galaxy in COSMOS as part of our on-going campaign to build a sample of distant quenched/quenching galaxies. From our previous runs (S17B- 106, S18B-040, S20B-031),(1) we have confirmed three z = 4.010, 3.99 and 3.775 galaxies, all of which are the highest redshift quiescent galaxies known to date, and (2) we have measured stellar velocity dispersions of the z = 4.010 and 3.99 galaxies, revealing that the mass in the core of these galaxies does not significantly evolve over the last 12 Gyr, which is consistent with the 2-phase formation scenario. Building upon three papers from our previous runs (Tanaka+ 2019, Valentino+ 2020, Tanaka+ in prep), we now propose to observe the most distant quenching galaxy candidate from our sample in COSMOS at z ∼ 4.7 based on the latest COSMOS2020 catalog with superb photometric quality. We aim (1) to spectroscopically confirm the emergence of the first quiescent galaxies when the Universe was only 1.2 Gyr old, and (2) to fully capture the Balmer break in the K-band to measure their star formation epoch and timescale, which will, combined with state-of-the-art simulations, give us new insights into key physics of very early quenching.&lt;/p></description></item></channel></rss>
