@@ -1,18 +1,18 @@
 ---
-title: The COSMOS2020 Catalog Paper has been published in ApJS!
+title: The COSMOS2020 Catalog has been published in ApJS!
 subtitle: Catalogs and data products are now available - [https://cosmos2020.calet.org/](https://cosmos2020.calet.org/)
 
 # Summary for listings and search engines
-summary: The COSMOS2020 Catalog Paper has been published in ApJS!
+summary: Catalogs and data products are now available - [https://cosmos2020.calet.org/](https://cosmos2020.calet.org/)
 
 # Link this post with a project
 projects: [cosmos2020-galaxy-catalog]
 
 # Date published
-date: "2021-10-13T00:00:00Z"
+date: "2022-01-13T00:00:00Z"
 
 # Date updated
-lastmod: "2021-10-13T00:00:00Z"
+lastmod: "2022-01-13T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
