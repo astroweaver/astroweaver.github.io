@@ -15,6 +15,12 @@ authors:
 - Madeline Schemel
 - Sune Toft
 tags:
+- '"Astronomy data analysis"'
+- '"Computational astronomy"'
+- '"Galaxy quenching"'
+- '"Quenched galaxies"'
+- '"Galaxy classification systems"'
+- '"Star formation"'
 - '"1858"'
 - '"293"'
 - '"2040"'
@@ -43,10 +49,22 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-28T10:31:34.727970Z'
+publishDate: '2022-10-27T21:09:28.313083Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Large photometric surveys provide a rich source of observations of quiescent
+  galaxies, including a surprisingly large population at z > 1. However, identifying
+  large, but clean, samples of quiescent galaxies has proven difficult because of
+  their near- degeneracy with interlopers such as dusty, star-forming galaxies. We
+  describe a new technique for selecting quiescent galaxies based upon t-distributed
+  stochastic neighbor embedding (t-SNE), an unsupervised machine-learning algorithm
+  for dimensionality reduction. This t-SNE selection provides an improvement both
+  over UVJ, removing interlopers that otherwise would pass color selection, and over
+  photometric template fitting, more strongly toward high redshift. Due to the similarity
+  between the colors of high- and low-redshift quiescent galaxies, under our assumptions,
+  t-SNE outperforms template fitting in 63% of trials at redshifts where a large training
+  sample already exists. It also may be able to select quiescent galaxies more efficiently
+  at higher redshifts than the training sample.
 publication: '*apj*'
 doi: 10.3847/1538-4357/ab76be
 ---
