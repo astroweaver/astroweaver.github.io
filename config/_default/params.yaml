@@ -21,17 +21,13 @@ twitter: 'astroweave'
 # Contact (edit or remove options as required)
 
 email: john.weaver.astro@gmail.com
-phone: +45 50 21 38 31
+phone: +1 (860)204-1344
 address:
-  street: Office No. 01.2.I.122, Niels Bohr Institute, Jagtvej 128
-  city:  København
-  postcode: '2200'
-  country: Denmark
-  country_code: DK
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-
+  street: University of Massachusetts Amherst Department of Astronomy LGRT-517J
+  city:  Amherst
+  postcode: '01002'
+  country: United States
+  country_code: USA
 
 
 # Site header
