@@ -15,7 +15,7 @@ url_video: ""
 url_slides: ""
 links: []
 publishDate: 2017-01-01T00:00:00.000Z
-tags: [invited]
+tags: [contributed]
 projects:
   - uncover-cat
 image:
@@ -24,4 +24,3 @@ image:
   filename: featured.png
 url_code: ""
 ---
-Coming Soon
