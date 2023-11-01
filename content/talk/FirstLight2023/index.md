@@ -2,7 +2,7 @@
 abstract: First Light
 slides: example
 url_pdf: ""
-title: "COSMOS2020: Insights into galaxy formation and growth in the first 10 billion years"
+title: "Turtles all the way down: perspectives on precision photometry to explore the early red universe with JWST"
 location: Massachussetts Institute of Technology
 date: 2023-06-12T11:15:12.073Z
 date_end: 2023-06-16T15:00:00.000Z
