@@ -10,7 +10,6 @@ url_slides: ""
 subtitle: ""
 tags:
   - Surveys
-  - Featured
 links:
   - icon: twitter
     icon_pack: fab

@@ -1,8 +1,8 @@
 header {
   position: relative;
   background-color: black;
-  height: 50px;
-  min-height: 20px;
+  height: 500px;
+  min-height: 300px;
   width: 100%;
   overflow: hidden;
 }
